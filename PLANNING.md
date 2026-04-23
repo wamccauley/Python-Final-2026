@@ -63,6 +63,6 @@ Program responds:
 
 ## Step 6 — Which project layer are you targeting?
 
-- [ ] **Layer C** — Basic: meets the minimum requirements (variables, input, if/else, print)
-- [ ] **Layer B** — Application: uses `elif`, type conversion, personalized output, and handles at least 2 different user scenarios
-- [ ] **Layer A** — Creative/Complex: original idea, multiple decision points, score tracking or story branching, clean and well-commented code
+- [ ] **Layer C** — Basic: meets the minimum requirements (variables, input, if/else, print) → up to 120/200 pts
+- [ ] **Layer B** — Application: uses `elif`, type conversion, personalized output, handles at least 2 different user scenarios → up to 180/200 pts
+- [ ] **Layer A** — Creative/Complex: original idea, multiple decision points, score tracking or story branching, clean and well-commented code → up to 200/200 pts

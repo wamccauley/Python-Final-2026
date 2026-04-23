@@ -1,38 +1,40 @@
 # 📊 Grading Rubric — Python Final Project 2026
 
+**Total Points: 200**
+
 ---
 
-## Layer C — Basic Knowledge (70–79 | 1 XP)
+## Layer C — Basic Knowledge (Grade: 70–79)
 
 *To earn a C, your project must include ALL of the following:*
 
 | Requirement | Points |
 |-------------|--------|
-| At least 3 variables with clear, meaningful names | 10 |
-| At least one `input()` that collects user data | 10 |
-| At least one `if` / `else` statement that works correctly | 15 |
-| At least 3 `print()` statements with readable output | 10 |
-| Code runs without errors | 15 |
-| **Layer C Total** | **60 pts** |
+| At least 3 variables with clear, meaningful names | 20 |
+| At least one `input()` that collects user data | 20 |
+| At least one `if` / `else` statement that works correctly | 30 |
+| At least 3 `print()` statements with readable output | 20 |
+| Code runs without errors | 30 |
+| **Layer C Total** | **120 pts** |
 
 ---
 
-## Layer B — Application Mastery (80–89 | 2 XP)
+## Layer B — Application Mastery (Grade: 80–89)
 
 *To earn a B, your project must meet all Layer C requirements PLUS:*
 
 | Requirement | Points |
 |-------------|--------|
-| Uses `int()` or `float()` to convert user input where needed | 5 |
-| Uses `elif` (not just `if`/`else`) with at least 3 branches | 10 |
-| Output is personalized — uses the user's name or input in responses | 5 |
-| Handles at least 2 clearly different user scenarios | 5 |
-| Code is organized with comments (`#`) labeling each section | 5 |
-| **Layer B Bonus Total** | **+30 pts** |
+| Uses `int()` or `float()` to convert user input where needed | 10 |
+| Uses `elif` (not just `if`/`else`) with at least 3 branches | 20 |
+| Output is personalized — uses the user's name or input in responses | 10 |
+| Handles at least 2 clearly different user scenarios | 10 |
+| Code is organized with comments (`#`) labeling each section | 10 |
+| **Layer B Bonus Total** | **+60 pts** |
 
 ---
 
-## Layer A — Critical Thinking & Real-World Application (90–100 | 3 XP)
+## Layer A — Critical Thinking & Real-World Application (Grade: 90–100)
 
 *To earn an A, your project must meet all Layer B requirements PLUS:*
 
@@ -46,19 +48,19 @@
 
 ---
 
-## Grading Scale
+## Point Summary
 
-| Layer Completed | Grade Range | XP Earned |
-|-----------------|-------------|----------|
-| C only | 70–79 | 1 XP |
-| B (includes C) | 80–89 | 2 XP |
-| A (includes B+C) | 90–100 | 3 XP |
+| Layer Completed | Points Available | Grade Range |
+|-----------------|-----------------|-------------|
+| C only | 120 / 200 | 70–79 |
+| B (includes C) | 180 / 200 | 80–89 |
+| A (includes B+C) | 200 / 200 | 90–100 |
 
 ---
 
 ## Notes
 
-- Code that **does not run** cannot score above a 50, regardless of layer attempted.
+- Code that **does not run** cannot score above 50 points, regardless of layer attempted.
 - Copied code from the internet without modification will receive a 0.
 - Partial credit is available at the teacher's discretion for incomplete layers.
-- XP resets after purchase per the class reward system.
+- `PLANNING.md` must be filled out to be eligible for Layer B or A credit.
