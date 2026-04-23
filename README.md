@@ -2,7 +2,8 @@
 
 **Course:** Introduction to Python Programming  
 **Due:** See your teacher for the deadline  
-**Time to Complete:** 46 minutes (in-class) or as assigned
+**Time to Complete:** 46 minutes (in-class) or as assigned  
+**Total Points: 200**
 
 ---
 
@@ -31,7 +32,7 @@ Your project **must** include all of the following:
 
 | Idea | Description |
 |------|-------------|
-| **Number Guessing Game** | Pick a secret number; let the user guess; tell them if they're too high, too low, or correct |
+| **Number Guessing Game** | Pick a secret number; let the user guess; tell them if they’re too high, too low, or correct |
 | **Quiz Game** | Ask the user 3–5 questions; check answers; give a final score |
 | **Story Adventure** | Tell a story and let the user make choices that change the ending |
 | **Grade Calculator** | Ask for test scores; calculate an average; print a letter grade |
@@ -57,7 +58,7 @@ This assignment is distributed through **GitHub Classroom**. Follow these steps 
 
 ### Step 1 — Accept the Assignment
 1. Click the **GitHub Classroom assignment link** provided by your teacher in Canvas.
-2. Sign in to GitHub (create a free account at [github.com](https://github.com) if you don't have one).
+2. Sign in to GitHub (create a free account at [github.com](https://github.com) if you don’t have one).
 3. Click **Accept this assignment**. GitHub will automatically create a personal repository for you.
 4. Your repo will be named something like `python-final-2026-YourUsername`. This is YOUR copy.
 
@@ -96,4 +97,4 @@ This assignment is distributed through **GitHub Classroom**. Follow these steps 
 - **Use comments.** Add a `#` comment above each section so your code is easy to read.
 - **Variable names matter.** `score` is better than `x`. `player_name` is better than `n`.
 - **Commit often** — every time you finish a section, save your work with a commit.
-- **Ask for help early** — don't wait until the last minute!
+- **Ask for help early** — don’t wait until the last minute!

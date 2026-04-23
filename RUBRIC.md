@@ -4,63 +4,37 @@
 
 ---
 
-## Layer C — Basic Knowledge (Grade: 70–79)
-
-*To earn a C, your project must include ALL of the following:*
-
-| Requirement | Points |
-|-------------|--------|
-| At least 3 variables with clear, meaningful names | 20 |
-| At least one `input()` that collects user data | 20 |
-| At least one `if` / `else` statement that works correctly | 30 |
-| At least 3 `print()` statements with readable output | 20 |
-| Code runs without errors | 30 |
-| **Layer C Total** | **120 pts** |
-
----
-
-## Layer B — Application Mastery (Grade: 80–89)
-
-*To earn a B, your project must meet all Layer C requirements PLUS:*
-
-| Requirement | Points |
-|-------------|--------|
-| Uses `int()` or `float()` to convert user input where needed | 10 |
-| Uses `elif` (not just `if`/`else`) with at least 3 branches | 20 |
-| Output is personalized — uses the user's name or input in responses | 10 |
-| Handles at least 2 clearly different user scenarios | 10 |
-| Code is organized with comments (`#`) labeling each section | 10 |
-| **Layer B Bonus Total** | **+60 pts** |
+| Requirement | Description | Points |
+|-------------|-------------|--------|
+| **Variables** | At least 3 variables with clear, meaningful names | 20 |
+| **Input** | Uses `input()` to collect data from the user | 20 |
+| **Type Conversion** | Uses `int()`, `float()`, or `str()` to convert user input where needed | 20 |
+| **Conditionals** | Uses `if`, `elif`, and `else` correctly with at least 3 branches | 30 |
+| **Output** | At least 3 `print()` statements that display clear, readable output to the user | 20 |
+| **Personalization** | Output uses the user's name or input in a meaningful way | 15 |
+| **Score / Tracking** | Tracks a score, count, or result across multiple steps and displays it at the end | 20 |
+| **Comments** | Code has `#` comments labeling each major section | 15 |
+| **Code Runs** | Program runs without errors from start to finish | 20 |
+| **Creativity & Effort** | Project shows original thought and goes beyond the bare minimum | 20 |
+| **Total** | | **200 pts** |
 
 ---
 
-## Layer A — Critical Thinking & Real-World Application (Grade: 90–100)
+## Grading Scale
 
-*To earn an A, your project must meet all Layer B requirements PLUS:*
-
-| Requirement | Points |
-|-------------|--------|
-| Original, creative concept that goes beyond the examples given | 5 |
-| Tracks a score, count, or result across multiple steps | 5 |
-| Final summary message uses calculated or tracked data | 5 |
-| Code is clean, well-named, and thoroughly commented | 5 |
-| **Layer A Bonus Total** | **+20 pts** |
-
----
-
-## Point Summary
-
-| Layer Completed | Points Available | Grade Range |
-|-----------------|-----------------|-------------|
-| C only | 120 / 200 | 70–79 |
-| B (includes C) | 180 / 200 | 80–89 |
-| A (includes B+C) | 200 / 200 | 90–100 |
+| Score | Grade |
+|-------|-------|
+| 180–200 | A |
+| 160–179 | B |
+| 140–159 | C |
+| 120–139 | D |
+| Below 120 | F |
 
 ---
 
 ## Notes
 
-- Code that **does not run** cannot score above 50 points, regardless of layer attempted.
+- Code that **does not run** cannot score above 50 points.
 - Copied code from the internet without modification will receive a 0.
-- Partial credit is available at the teacher's discretion for incomplete layers.
-- `PLANNING.md` must be filled out to be eligible for Layer B or A credit.
+- Partial credit is available at the teacher's discretion.
+- `PLANNING.md` must be filled out to be eligible for full credit on Personalization, Creativity, and Tracking.
